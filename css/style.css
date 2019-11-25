@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Montserrat|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Cinzel|Montserrat|Righteous|Roboto+Slab&display=swap');
+
+body{
+ background-image: linear-gradient(to right bottom, #e53e84, #b52d80, #822276, #501a66, #1c1151);
+ width: 100%;
+ font-weight: bold;
+ font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif;
+overflow-x: hidden!important;
+
+}
+.bouton-visiter{
+    background-color: #55F1FE;
+}
+.title-descri{
+    font-weight:lighter;
+    text-transform: uppercase;
+    font-family: 'Righteous', cursive;
+  
+}
+.tile{
+    font-family: sans-serif;
+    line-height: 2em; 
+    
+}
+.liste-menu{
+    font-size: 1.3em;
+}
+.feat{
+    background-color: #54F2FE;
+}
+
+
+
+#mainNav.navbar-shrink{
+    padding-top:0;
+    padding-bottom:0;
+    background-image: linear-gradient(to right bottom, #e53e84, #b52d80, #822276, #501a66);
+    height: 80px;
+}#mainNav.navbar-shrink .navbar-brand{
+    font-size:1.25em;padding:12px 0
+}
+.main-contain{
+    margin-top: 100px;
+}
